@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fec6310a-16db-4dd2-adf9-abc8fd85cccd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fonts/Larsseit-Bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Larsseit-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Larsseit-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Larsseit-Light.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Larsseit-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Larsseit-Light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Larsseit-Medium.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Larsseit-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Larsseit-Medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Larsseit.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Larsseit.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Larsseit.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -31,8 +20,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="33" column="59" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="59" />
+            <state relative-caret-position="517">
+              <caret line="35" column="39" lean-forward="true" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -40,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+            <state relative-caret-position="508">
+              <caret line="133" column="20" lean-forward="true" selection-start-line="133" selection-start-column="20" selection-end-line="133" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -59,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -78,7 +67,7 @@
             <path>
               <item name="thrive_talk_landing" type="b2602c69:ProjectViewProjectNode" />
               <item name="thrive_talk_landing" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -95,6 +84,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -120,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567369145009</updated>
-      <workItem from="1567369146869" duration="13893000" />
+      <workItem from="1567369146869" duration="16653000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1567369424268</created>
@@ -133,14 +123,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13893000" />
+    <option name="totallyTimeSpent" value="16653000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" weight="0.32891566" />
@@ -168,15 +158,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="59" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="59" />
+        <state relative-caret-position="517">
+          <caret line="35" column="39" lean-forward="true" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+        <state relative-caret-position="508">
+          <caret line="133" column="20" lean-forward="true" selection-start-line="133" selection-start-column="20" selection-end-line="133" selection-end-column="20" />
         </state>
       </provider>
     </entry>
