@@ -132,10 +132,47 @@ body {
     border-radius: 0;
     color: #FAB63E;
     font-size: 16px;
+    padding: 0;
 }
 
 .helping_text_btn:hover {
     background: #F9B640;
     color: #ffffff;
+}
 
+.second_screen {
+    background-color: #62D0DF;
+    color: #ffffff;
+    background-image: url("./img/bd_second.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.second_text {
+    height: 607px;
+    margin: auto;
+}
+
+.second_text h3 {
+    font-size: 36px;
+    margin: 0;
+    padding-bottom: 75px;
+    padding-top: 151px;
+}
+
+.second_text p {
+    display: flex;
+    font-weight: normal;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 24px;
+    line-height: 35px;
+    width: 555px;
+    height: 235px;
+    margin: 0;
+}
+
+.bold {
+    font-weight: bold;
 }
