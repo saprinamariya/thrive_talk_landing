@@ -66,7 +66,6 @@ body {
 .top-menu a:hover {
     color: #22356F;
     border-bottom-color: #22356F;
-
 }
 
 .top-menu a:last-child {
@@ -162,9 +161,6 @@ body {
 
 .second_text p {
     display: flex;
-    font-weight: normal;
-    justify-content: center;
-    align-items: center;
     flex-wrap: wrap;
     font-size: 24px;
     line-height: 35px;
@@ -185,13 +181,10 @@ body {
 }
 
 .about_us_top {
-    width: 93px;
-    height: 210px;
     font-size: 16px;
     margin-top: 150px;
     margin-right: 225px;
     text-transform: uppercase;
-
 }
 
 .about_us_text {
@@ -300,7 +293,6 @@ body {
     flex-wrap: wrap;
     margin-top: 22px;
     width: 100%;
-
 }
 
 .fact {
@@ -321,4 +313,84 @@ body {
     line-height: 25px;
     color: rgba(34, 53, 111, 0.5);
     margin: 28px 77px 37px 105px;
+}
+
+.people {
+    background-image: url("./img/people.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-top: 77px;
+}
+
+.people_inner {
+    height: 800px;
+    margin: auto;
+}
+
+.people_top {
+    font-size: 16px;
+    line-height: 12px;
+    text-transform: uppercase;
+    color: #22356F;
+    padding: 103px 0 225px 0;
+    text-align: center;
+}
+
+.people_text {
+    font-size: 36px;
+    color: #22356F;
+    font-weight: bold;
+    margin-left: 400px;
+}
+
+.color {
+    color: #62D0DF;
+    font-weight: bold;
+}
+
+.people_bottom {
+    font-size: 16px;
+    line-height: 23px;
+    color: #FAB63E;
+    text-transform: uppercase;
+    margin: 152px 400px 0;
+}
+
+.contact {
+    background-color: #22356F;
+    background-image: url(./img/man.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 800px;
+    padding: 0;
+    margin: 0;
+}
+
+.contact_top {
+    padding-top: 103px;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 12px;
+    text-transform: uppercase;
+}
+
+.contact_text h3 {
+    font-size: 64px;
+    padding-top: 230px;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.contact_text p {
+    font-size: 36px;
+    line-height: 53px;
+    color: #FFFFFF;
+    padding-right: 480px;
+}
+
+.contact_bottom {
+    color: #62D0DF;
+    font-size: 16px;
+    line-height: 23px;
+    text-transform: uppercase;
 }
