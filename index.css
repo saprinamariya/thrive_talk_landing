@@ -72,7 +72,7 @@ body {
     margin-right: 0;
 }
 
-.contact a {
+.header_btn a {
     text-transform: uppercase;
     display: flex;
     text-decoration: none;
@@ -358,12 +358,10 @@ body {
 
 .contact {
     background-color: #22356F;
-    background-image: url(./img/man.png);
+    background-image: url("./img/man.png");
     background-repeat: no-repeat;
     background-position: right;
     height: 800px;
-    padding: 0;
-    margin: 0;
 }
 
 .contact_top {
@@ -393,4 +391,63 @@ body {
     font-size: 16px;
     line-height: 23px;
     text-transform: uppercase;
+}
+
+.footer {
+    background-image: url("./img/footer.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 380px;
+}
+
+.footer_container {
+    display: flex;
+    margin-left: 638px;
+}
+
+.footer_item {
+    width: 200px;
+    margin-top: 98px;
+    margin-right: 110px;
+}
+
+.footer_item:last-child {
+    margin-right: 0;
+}
+
+.footer_item h3 {
+    font-size: 14px;
+    line-height: 11px;
+    color: #22356F;
+    text-transform: uppercase;
+}
+
+.footer_item p {
+    padding-top: 50px;
+    font-size: 14px;
+    line-height: 23px;
+    color: rgba(34, 53, 111, 0.5);
+    position: relative;
+}
+
+.footer_bottom {
+    position: absolute;
+    padding-top: 250px;
+    padding-left: 310px;
+    font-size: 14px;
+    line-height: 23px;
+    color: rgba(34, 53, 111, 0.5);
+}
+
+.brand {
+    background: #62D0DF;
+    height: 80px;
+}
+
+.brand_inner {
+    font-size: 14px;
+    line-height: 11px;
+    color: #FFFFFF;
+    padding-top: 32px;
+    padding-left: 194px;
 }
